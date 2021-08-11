@@ -1,0 +1,1 @@
+This project is to create a page with React JS (in four hours). Creating columns and cards and editing their names works, but the movement of the cards between the columns is logically correct, only it can not be rendered to DOM yet. Apart from React JS, I only installed "nanoid" to create a unique ID.
